@@ -1,4 +1,4 @@
-def triangleTest(a, b, c):
+def triangletest(a, b, c):
     if a + b > c:
         return True
     else:
